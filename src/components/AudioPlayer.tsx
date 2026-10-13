@@ -72,7 +72,7 @@ export default function AudioPlayer({
             </div>
           </div>
           <span className="text-xs font-mono text-neon/70 flex-shrink-0 tabular-nums">
-            {formatTime(state.currentTime)} / {formatTime(state.duration)}
+            {formatTime(state.currentTime)} di {formatTime(state.duration)}
           </span>
         </div>
 

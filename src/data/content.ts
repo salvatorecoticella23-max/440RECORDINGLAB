@@ -13,11 +13,11 @@ export const services = [
   {
     id: 'mixing',
     title: 'Mixing',
-    subtitle: 'Analogico & Digitale',
+    subtitle: 'Mixing ITB',
     icon: Sliders,
     description:
-      'Un mix ibrido che unisce il calore dell\'analogico alla precisione del digitale. Equalizzazione, dinamica e spazialità curate al dettaglio per dare profondità, impatto e definizione a ogni elemento del brano.',
-    features: ['Workflow analogico/digitale', 'Equalizzazione e dinamica', 'Spazialità e panorama', 'Automazioni'],
+      'Un mix ITB curato al dettaglio, dove equalizzazione, dinamica e spazialità donano profondità, impatto e definizione a ogni elemento del brano. Plugin di ultima generazione e automazioni precise per un suono moderno e competitivo.',
+    features: ['Workflow ITB', 'Equalizzazione e dinamica', 'Spazialità e panorama', 'Automazioni'],
   },
   {
     id: 'mastering',
@@ -60,11 +60,11 @@ export const tracks: Track[] = [
     genre: 'Rock',
     service: 'Mix & Mastering',
     cover:
-      'https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Linkin%20Park%20In%20The%20End%20album%20cover%20art%2C%20dark%20dramatic%20moody%20atmosphere%2C%20piano%20keys%20silhouette%2C%20rain%2C%20cinematic%20lighting%2C%20dark%20blue%20and%20black%20color%20scheme%2C%20professional%20music%20cover%2C%20high%20contrast%2C%20emotional&image_size=square',
+      'https://coresg-normal.trae.ai/api/ide/v1/text_to_image?prompt=Album%20cover%20art%20for%20a%20Linkin%20Park%20remix%20of%20In%20The%20End%2C%20text%20written%20clearly%20on%20cover%3A%20%22In%20The%20End%20-%20Remix%22%2C%20dark%20dramatic%20moody%20atmosphere%2C%20piano%20keys%20silhouette%2C%20rain%2C%20cinematic%20lighting%2C%20dark%20blue%20and%20black%20color%20scheme%2C%20professional%20music%20cover%2C%20high%20contrast%2C%20emotional&image_size=square',
     audioBefore: '/images/MUSIC/Linkin%20Park-In%20The%20End%20MIX%20FINAL.mp3',
     audioAfter: '/images/MUSIC/Linkin%20Park-In%20The%20End%20MIX%20FINAL.mp3',
     description:
-      'Mix e mastering realizzati partendo dalle raw tracks originali.',
+      'Remix con mix e mastering realizzati partendo dalle raw tracks originali.',
   },
   {
     id: 1,
@@ -131,7 +131,7 @@ export const tracks: Track[] = [
 export const gear = [
   {
     category: 'Interfaccia Audio',
-    items: [{ name: 'Audient EVO 16', detail: '24-bit / 96kHz — 8 preamp EVE' }],
+    items: [{ name: 'Audient EVO 16', detail: '24-bit 96kHz — 8 preamp EVE' }],
   },
   {
     category: 'Monitoraggio',
@@ -181,7 +181,7 @@ export const reviews = [
     name: 'Tono Libero',
     service: 'Mix & Mastering',
     rating: 5,
-    text: 'Il workflow ibrido analogico-digitale fa la differenza. Il mio brano hip hop ha guadagnato profondità, punch e chiarezza. Comunicazione chiara e tempi di consegna rispettati.',
+    text: 'Il workflow ITB curato al dettaglio fa la differenza. Il mio brano hip hop ha guadagnato profondità, punch e chiarezza. Comunicazione chiara e tempi di consegna rispettati.',
   },
   {
     id: 6,

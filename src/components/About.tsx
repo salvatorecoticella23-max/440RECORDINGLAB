@@ -59,10 +59,9 @@ export default function About() {
 
             <Reveal direction="right" delay={200}>
               <p className="text-base text-white/60 leading-relaxed font-light">
-                Al 440 Recording Lab applico un approccio ibrido che unisce il calore della catena analogica
-                alla precisione del dominio digitale. Credo che ogni brano abbia un\'anima, e il mio lavoro
-                consiste nel valorizzarla attraverso scelte tecniche consapevoli: dall\'acquisizione della fonte,
-                al bilanciamento delle frequenze, fino all\'ultimo passaggio di mastering.
+                Al 440 Recording Lab applico un approccio ITB puro, dove la precisione del workflow ITB viene valorizzata da scelte tecniche consapevoli. Credo che ogni brano abbia un'anima, e il mio lavoro
+                consiste nel valorizzarla attraverso scelte tecniche curate: dall'acquisizione della fonte,
+                al bilanciamento delle frequenze, fino all'ultimo passaggio di mastering.
               </p>
             </Reveal>
 

@@ -90,7 +90,7 @@ export default function Hero() {
         >
           {[
             { value: '440Hz', label: 'Reference' },
-            { value: '100%', label: 'Analog+Digital' },
+            { value: '100%', label: 'Full ITB' },
             { value: '∞', label: 'Dettaglio' },
           ].map((stat, i) => (
             <div

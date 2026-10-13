@@ -103,7 +103,7 @@ export default function Contact() {
 
               <div>
                 <label className="block text-xs font-semibold text-white/60 uppercase tracking-wider mb-2">
-                  Link demo / file
+                  Link demo o file
                 </label>
                 <input
                   type="url"

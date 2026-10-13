@@ -233,7 +233,7 @@ export default function Reviews() {
                       );
                     })}
                     <span className="ml-2 text-sm text-white/50">
-                      {form.rating} / 5
+                      {form.rating} su 5
                     </span>
                   </div>
                 </div>
